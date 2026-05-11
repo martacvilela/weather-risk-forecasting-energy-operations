@@ -1,0 +1,8 @@
+[project]
+name = "weather-risk-forecasting-energy-operations"
+version = "0.1.0"
+description = "Machine learning prototype for weather risk classification in energy operations."
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
