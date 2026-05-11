@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Tests](https://github.com/martacvilela/weather-risk-forecasting-energy-operations/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/martacvilela/weather-risk-forecasting-energy-operations/.github/workflows/ci.yml/badge.svg)
 ![Streamlit](https://img.shields.io/badge/demo-Streamlit-ff4b4b)
 
 Applied machine learning prototype for classifying daily weather conditions as **safe** or **unsafe** for outdoor energy and construction operations exposed to wind, precipitation and temperature risk.
